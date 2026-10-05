@@ -1,1 +1,1 @@
-# takatof.githup.io
+# takatof.github.io
